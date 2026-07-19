@@ -17,4 +17,4 @@ I'm passionate about building modern Shopify stores and improving customer exper
 - Shopify   Store Development
 
 ### Connect with me
-- LinkedIn: (your LinkedIn URL)
+- LinkedIn: (https://www.linkedin.com/in/amaan-shopify/)
